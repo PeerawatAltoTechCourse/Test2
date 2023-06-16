@@ -6,3 +6,4 @@ my main idea :
 my second goals :
 1.IoT
 2.Computer science , data management
+3.Solar cell
